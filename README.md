@@ -1,2 +1,1 @@
--> Hi, I'm Deron Martin
--> I'm currently pursuign my Master's in CS at UCR
+Hi, I'm Deron Martin and I'm currently pursuing my Master's degree in Computer Science at UC, Riverside
